@@ -8,9 +8,9 @@ let handler = async (m, { conn, usedPrefix }) => {
       extendedTextMessage: {
       text: `
 ╭─「 Donasi • Dana 」
-│ • im3 [085822347348]
-│ • axis  [083843192208]
-│ • Dana  [085822347348]
+│ • telkom [0851251549899]
+│ • Gopay  [081352848936]
+│ • Dana  [081251549899]
 │ • Saweria  [https://saweria.co/arullofc]
 ╰────
 ╭─「 *NOTE* 」
